@@ -57,7 +57,10 @@ html::-webkit-scrollbar-thumb {
   top: -120%;
 }
 /* pre loader end */
-
+.experience {
+  min-height: auto !important;
+  padding-bottom: 50px !important;
+}
 /* navbar starts */
 header {
   position: fixed;
